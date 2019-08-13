@@ -1,0 +1,59 @@
+                    .header {
+                    color: white;
+                    text-align: center;
+                    background: pink;
+                    font-size: 25pt;
+                    padding: 5px;
+                    margin: 5px;
+                }
+                
+                ul {
+                    list-style-type: none;
+                    margin: 5px;
+                    padding: 5px;
+                    overflow: hidden;
+                    background-color: pink;
+                }
+                
+                li {
+                    float: left;
+                }
+                
+                li a {
+                    display: block;
+                    color: white;
+                    text-align: center;
+                    padding: 14px 16px;
+                    text-decoration: none;
+                }
+                
+                li a:hover {
+                    background-color: black;
+                }
+                
+                .sidebar {
+                    background: pink;
+                    float: left;
+                    height: 75%;
+                    width: 35%;
+                    font-size: 1.5em;
+                    text-align: center;
+                    padding-top: 20px;
+                }
+                
+                .content {
+                    background: pink;
+                    float: right;
+                    height: 75%;
+                    width: 64%;
+                    text-align: center;
+                    font-size: 1.5em;
+                    margin-bottom: 25px;
+                }
+                
+                footer {
+                    background: pink;
+                    float: right;
+                    width: 100%;
+                    text-align: center;
+                    font-size: 1.5em;
